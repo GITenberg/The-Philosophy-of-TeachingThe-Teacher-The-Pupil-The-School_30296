@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '34502'
     url: http://www.gutenberg.org/2009/agents/34502
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30296#The-Philosophy-of-TeachingThe-Teacher-The-Pupil-The-School
 gutenberg_issued: '2009-10-20'
 gutenberg_type: Text
 identifiers:
